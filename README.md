@@ -11,7 +11,7 @@ An Web App created for generating Invoices and send those invoices back to custo
 
 ### How to run locally
 ```bash
-git clone 
+git clone https://github.com/MrVineetRaj/NextJs_SIH_internal.git
 npm install 
 ```
 
